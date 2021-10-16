@@ -1,16 +1,5 @@
-# snake
+# Snake
+The classic snake game made with flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://user-images.githubusercontent.com/68272208/137589668-0eb56fd3-5ba6-4533-b09c-022006622f75.jpg" alt="Screenshot 1" width=250 height=520>
